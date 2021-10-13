@@ -7,19 +7,24 @@
     "start": "nuxt start"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.8.1",
-    "@iconify/json": "^1.1.399",
+    "@antfu/eslint-config": "^0.9.0",
+    "@iconify/json": "^1.1.414",
     "@nuxt/types": "^2.15.8",
-    "@nuxtjs/composition-api": "^0.29.0",
-    "@vue/runtime-dom": "^3.2.11",
-    "@vueuse/core": "^6.3.2",
-    "eslint": "^7.32.0",
+    "@nuxtjs/composition-api": "^0.29.3",
+    "@vue/runtime-dom": "^3.2.20",
+    "@vueuse/core": "^6.5.3",
+    "eslint": "^8.0.0",
     "nuxt": "^2.15.8",
-    "nuxt-vite": "^0.2.4",
-    "nuxt-windicss": "^1.2.3",
-    "typescript": "^4.4.2",
-    "unplugin-auto-import": "^0.4.5",
-    "unplugin-icons": "^0.7.6",
-    "unplugin-vue-components": "^0.15.0"
+    "nuxt-vite": "^0.3.5",
+    "nuxt-windicss": "^1.2.5",
+    "typescript": "^4.4.4",
+    "unfetch": "^4.2.0",
+    "unplugin-auto-import": "^0.4.12",
+    "unplugin-icons": "^0.12.15",
+    "unplugin-vue-components": "^0.15.6",
+    "vue-client-only": "^2.1.0",
+    "vue-meta": "^2.4.0",
+    "vue-no-ssr": "^1.1.1",
+    "vue-router": "^3.5.2"
   }
 }
